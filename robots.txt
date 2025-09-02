@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neurithtech.com/sitemap.xml
